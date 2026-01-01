@@ -1,8 +1,8 @@
 #+title: Readme
 
-* add this Homebrew tap
+* Add this Homebrew tap
 #+begin_src
-brew tap-new masukomi/homebrew-tap
+brew tap masukomi/homebrew-tap
 #+end_src
 * What's here
 
