@@ -1,0 +1,23 @@
+code-section:
+    after-string: '] '
+    before-string: '['
+    destination: title
+    instructions: Which section of the codebase?
+    modifiable: true
+    options:
+        - days_progress
+        - git-com
+        - private_comments
+        - hey
+        - rtest
+        - oho
+    type: select
+commit-title:
+    destination: title
+    placeholder: Commit Title
+    type: text
+commit-description:
+    allow-empty: true
+    destination: body
+    instructions: Please describe your changes.
+    type: multiline-text
