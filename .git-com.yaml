@@ -11,6 +11,7 @@ code-section:
         - hey
         - rtest
         - oho
+        - tap
     type: select
 commit-title:
     destination: title
