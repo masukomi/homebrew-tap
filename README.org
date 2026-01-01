@@ -1,0 +1,22 @@
+#+title: Readme
+
+* add this Homebrew tap
+#+begin_src
+brew tap-new masukomi/homebrew-tap
+#+end_src
+* What's here
+
+- git-com
+  A tool that makes it easy to produce structured commit messages.
+  - [[https://git-com.masukomi.org][Homepage]]
+  - [[https://github.com/masukomi/git-com][Source Code]]
+  - Installation: ~brew install masukomi/homebrew-tap/git-com~
+  - Language: Go
+  - License: MIT
+- days progress
+  A simple command line chart of your progress through the day.
+  Add it to your prompt to get a feel for how much time you have left in your day.
+  - [[https://github.com/masukomi/days_progress][Source Code]]
+  - Language: Chicken Scheme
+  - License: MIT
+  - Installation: ~brew install masukomi/homebrew-tap/days_progress~
