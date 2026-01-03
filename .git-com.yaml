@@ -2,12 +2,12 @@ code-section:
     after-string: '] '
     before-string: '['
     destination: title
-    instructions: Which section of the codebase?
+    instructions: Which formula?
     modifiable: true
     options:
-        - days_progress
         - git-com
         - private_comments
+        - days_progress
         - hey
         - rtest
         - oho
