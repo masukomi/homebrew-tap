@@ -12,6 +12,7 @@ code-section:
         - rtest
         - oho
         - tap
+        - cleandiff
     type: select
 commit-title:
     destination: title
