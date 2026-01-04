@@ -1,9 +1,9 @@
 class GitCom < Formula
   desc "CLI tool that creates consistent git commit messages through YAML-configured interactive prompts"
   homepage "https://github.com/masukomi/git-com"
-  current_version="1.2.1"
+  current_version="1.2.2"
   url "https://github.com/masukomi/git-com/archive/refs/tags/v#{current_version}.tar.gz"
-  sha256 "31b4d516fb2ff5c741458daf175889a3713abde8f6213a4bbab024fdc9632db5"
+  sha256 "d9ff7937f8258b1a218ad6ecb5e409120fc2f228a9eeebd06db84af0ec7e20d2"
   license "MIT"
 
   depends_on "go" => :build
