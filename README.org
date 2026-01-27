@@ -6,6 +6,12 @@ brew tap masukomi/homebrew-tap
 #+end_src
 * What's here
 
+** audiobook_creator
+  Converts a folder of audio files (MP3, AAC, M4A) into a single M4B audiobook file with chapters, metadata, and cover art.
+  - [[https://github.com/masukomi/audiobook_creator][Source Code]]
+  - Installation: ~brew install masukomi/homebrew-tap/audiobook_creator~
+  - Language: Go
+  - License: MIT
 ** git-com
   A tool that makes it easy to produce structured commit messages.
   - [[https://git-com.masukomi.org][Homepage]]
