@@ -1,7 +1,7 @@
 class GitComChangelog < Formula
   desc "A changelog generator that utilizes structured commits created by git-com "
   homepage "https://github.com/masukomi/git-com-changelog"
-  current_version="v1.0.0"
+  current_version="1.0.0"
   url "https://github.com/masukomi/git-com-changelog/archive/refs/tags/v#{current_version}.tar.gz"
   sha256 "2ac53cb35dab43404f8735a86b37d62b56a4e2a7b22bf6200eb23828e81d9e9e"
   license "MIT"
