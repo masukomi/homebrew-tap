@@ -2,7 +2,7 @@ class GitCom < Formula
   desc "CLI tool that creates consistent git commit messages through YAML-configured interactive prompts"
   homepage "https://github.com/masukomi/git-com"
   current_version="1.9.0"
-  url "https://github.com/masukomi/git-com/archive/refs/tags/#{current_version}.tar.gz"
+  url "https://github.com/masukomi/git-com/archive/refs/tags/v#{current_version}.tar.gz"
   sha256 "2c062895977920aa6574c318cddf706eaf5b3f198a44c1fe660a88fe5add911c"
   license "MIT"
 
