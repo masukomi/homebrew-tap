@@ -1,5 +1,4 @@
-class GitCom < Formula
-  desc "CLI tool that creates consistent git commit messages through YAML-configured interactive prompts"
+class GitComChangelog < Formula
   desc "A changelog generator that utilizes structured commits created by git-com "
   homepage "https://github.com/masukomi/git-com-changelog"
   current_version="v1.0.0"
