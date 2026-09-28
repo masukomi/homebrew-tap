@@ -3,7 +3,7 @@ class LivingSpeech < Formula
   homepage "https://github.com/masukomi/living_speech"
   url "https://github.com/masukomi/living_speech/archive/refs/tags/v#{version}.tar.gz"
   version "1.0.0"
-  sha256 "487196b10e24686d50335c8ffe1e8e627a0ef669d40acc2c6b71fe4da5998606"
+  sha256 "bc9800296d5bb93c42b7d31d9fffd6f5d9b81467805b95221208c8af9638b6f2"
   license "GPL-3.0-or-later"
 
   depends_on "go" => :build
