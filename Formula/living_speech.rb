@@ -1,8 +1,8 @@
 class LivingSpeech < Formula
   desc "Menu bar text-to-speech app for people who can't talk"
   homepage "https://github.com/masukomi/living_speech"
-  url "https://github.com/masukomi/living_speech/archive/refs/tags/v#{version}.tar.gz"
   version "1.0.0"
+  url "https://github.com/masukomi/living_speech/archive/refs/tags/v#{version}.tar.gz"
   sha256 "bc9800296d5bb93c42b7d31d9fffd6f5d9b81467805b95221208c8af9638b6f2"
   license "GPL-3.0-or-later"
 
