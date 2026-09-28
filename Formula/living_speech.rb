@@ -21,10 +21,10 @@ class LivingSpeech < Formula
     ENV.prepend_path "PATH", buildpath/"tools"
 
     # Installs the frontend's npm packages, builds the frontend and the Go
-    # binary for this Mac's architecture, and assembles bin/livingspeech.app.
+    # binary for this Mac's architecture, and assembles bin/LivingSpeech.app.
     system "wails3", "package"
 
-    prefix.install "bin/livingspeech.app" => "LivingSpeech.app"
+    prefix.install "bin/LivingSpeech.app"
   end
 
   def caveats
