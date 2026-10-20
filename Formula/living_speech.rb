@@ -1,9 +1,9 @@
 class LivingSpeech < Formula
   desc "Menu bar text-to-speech app for people who can't talk"
   homepage "https://github.com/masukomi/living_speech"
-  version "1.1.0"
+  version "1.2.0"
   url "https://github.com/masukomi/living_speech/archive/refs/tags/v#{version}.tar.gz"
-  sha256 "2a3fda8fd655d4a47c34843f4e47082f88c347de91d2e3cc73df3206603aaaca"
+  sha256 "5b1fae964eaa5de619aaa718b2b9f8546d9a390ce750913e39fd2169b4fb5d9b"
   license "GPL-3.0-or-later"
 
   depends_on "go" => :build
